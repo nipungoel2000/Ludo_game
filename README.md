@@ -1,2 +1,2 @@
 # Ludo_game
-First sem python3 project making ludo using oygame library of python3
+First sem python3 project making multiplayer game ludo using pygame library of python3.
